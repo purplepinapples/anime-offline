@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+
+[packages]
+jikanpy = {git = "https://github.com/AWConant/jikanpy"}
+toml = "*"
+requests = "*"
+pyyaml = "*"
+appdirs = "*"
+docopt = "*"
+
+[requires]
+python_version = "3.7"
