@@ -1,6 +1,8 @@
 
 # anime-offline
 
+Will be replaced by [Hiyori](https://www.patreon.com/posts/introducing-api-30063841)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 The purpose of this project is to maintain a cache of anime databases incase the websites ever go down, make cross-database scripts easier to write, improve the quality and consistency of said databases, and have a centralized place to put anime related scripts.
